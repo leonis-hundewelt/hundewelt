@@ -258,3 +258,14 @@ ul {
     font-size: 0.9rem;
     color: #64748b;
 }
+
+.btn-whatsapp {
+    background-color: #25D366;
+    color: white;
+    box-shadow: 0 4px 20px rgba(37, 211, 102, 0.4);
+}
+
+.btn-whatsapp:hover {
+    background-color: #128C7E;
+    box-shadow: 0 10px 30px rgba(37, 211, 102, 0.5);
+}
