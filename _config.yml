@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Leonis Hundewelt
-email: kontakt@leonis-hundewelt.de
+email: info@leonis-hundewelt.de
 description: >- # this means to ignore newlines until "baseurl:"
   Deine Premium-Hundebetreuung. Wir kümmern uns mit Herz und Verstand um deinen Vierbeiner.
 baseurl: "" # the subpath of your site, e.g. /blog

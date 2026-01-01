@@ -26,7 +26,7 @@ permalink: /kontakt.html
         <h3 style="color: var(--primary-color); margin-bottom: 0.5rem;">Kontakt</h3>
         <p style="color: var(--text-muted);">
           Telefon: <a href="tel:+491622966199">0162 2966199</a><br>
-          Email: <a href="mailto:kontakt@leonis-hundewelt.de">kontakt@leonis-hundewelt.de</a>
+          E-Mail: <a href="mailto:info@leonis-hundewelt.de">info@leonis-hundewelt.de</a>
         </p>
       </div>
 
