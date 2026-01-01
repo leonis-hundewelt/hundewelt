@@ -47,15 +47,14 @@ permalink: /bilder.html
 </style>
 
 <div class="gallery-grid">
-<div class='gallery-card'><img src='/assets/images/images_page/20220307_175749.webp' alt='schwarzer Mischlingshund auf einer Straße, im Hintergrund ein Sonnenuntergang' loading='lazy' decoding='async' class='gallery-img'></div>
+<div class='gallery-card'><img src='/assets/images/images_page/20220417_194333.webp' alt='ein Australian Sheperd in einem Feld liegend' loading='lazy' decoding='async' class='gallery-img'></div>
+<div class='gallery-card'><img src='/assets/images/images_page/20220430_081621.webp' alt='ein weißer Labradoodle auf einem Feld sitzend' loading='lazy' decoding='async' class='gallery-img'></div>
+<div class='gallery-card'><img src='/assets/images/images_page/20220520_150613.webp' alt='ein schwarzer Labrador in einem Feld sitzend' loading='lazy' decoding='async' class='gallery-img'></div>
 <div class='gallery-card'><img src='/assets/images/images_page/20220312_083556.webp' alt='brauner Hütehund vor einem Feld' loading='lazy' decoding='async' class='gallery-img'></div>
 <div class='gallery-card'><img src='/assets/images/images_page/20220327_093216.webp' alt='zwei hunde auf einem Feldweg. ein braun weißer Collie und ein schwarz weißer Border Collie' loading='lazy' decoding='async' class='gallery-img'></div>
 <div class='gallery-card'><img src='/assets/images/images_page/20220414_201147.webp' alt='ein Australian Shepherd auf Steinen sitzend vor einem See' loading='lazy' decoding='async' class='gallery-img'></div>
-<div class='gallery-card'><img src='/assets/images/images_page/20220417_194333.webp' alt='ein Australian Sheperd in einem Feld liegend' loading='lazy' decoding='async' class='gallery-img'></div>
-<div class='gallery-card'><img src='/assets/images/images_page/20220430_081621.webp' alt='ein weißer Labradoodle auf einem Feld sitzend' loading='lazy' decoding='async' class='gallery-img'></div>
 <div class='gallery-card'><img src='/assets/images/images_page/20220430_081639.webp' alt='ein weißer Labradoodle auf einem Sonnenblumern feld sitzend und in die Ferne guckend' loading='lazy' decoding='async' class='gallery-img'></div>
 <div class='gallery-card'><img src='/assets/images/images_page/20220501_142214.webp' alt='ein weißer Labradoodle vor einem Wolfsgehege staunen einen vorbeilaufenden Hund anschauen' loading='lazy' decoding='async' class='gallery-img'></div>
-<div class='gallery-card'><img src='/assets/images/images_page/20220520_150613.webp' alt='ein schwarzer Labrador in einem Feld sitzend' loading='lazy' decoding='async' class='gallery-img'></div>
 <div class='gallery-card'><img src='/assets/images/images_page/20220521_135958.webp' alt='ein schwarzer Labrador or einem See sitzend' loading='lazy' decoding='async' class='gallery-img'></div>
 <div class='gallery-card'><img src='/assets/images/images_page/20220526_123600.webp' alt='ein weißer Labradoodle im Sand an der Ostsee liegend vor dem Wasser. Die Ohren fliegen im Wind vors Gesicht des Hundes.' loading='lazy' decoding='async' class='gallery-img'></div>
 <div class='gallery-card'><img src='/assets/images/images_page/20220610_122714.webp' alt='ein weißer kleiner Hund vor einem Feld stehend, er hat ein Knickohr' loading='lazy' decoding='async' class='gallery-img'></div>
@@ -75,6 +74,7 @@ permalink: /bilder.html
 <div class='gallery-card'><img src='/assets/images/images_page/20230108_105422.webp' alt='ein weißer Labradodle sitzt vor dem See und schaut nach links' loading='lazy' decoding='async' class='gallery-img'></div>
 <div class='gallery-card'><img src='/assets/images/images_page/20230128_135912.webp' alt='ein grauer Australian Shepherd-Schäferhundmix sitzt auf einem Weg' loading='lazy' decoding='async' class='gallery-img'></div>
 <div class='gallery-card'><img src='/assets/images/images_page/20230204_144342.webp' alt='ein grauer Australian Shepherd-Schäferhundmix steht auf einem Baumstamm' loading='lazy' decoding='async' class='gallery-img'></div>
+<div class='gallery-card'><img src='/assets/images/images_page/20220307_175749.webp' alt='schwarzer Mischlingshund auf einer Straße, im Hintergrund ein Sonnenuntergang' loading='lazy' decoding='async' class='gallery-img'></div>
 <div class='gallery-card'><img src='/assets/images/images_page/20240824_161942.webp' alt='ein Australian Shepherd und ein Labrador sitzen auf einem Feldweg nebeneinnander' loading='lazy' decoding='async' class='gallery-img'></div>
 <div class='gallery-card'><img src='/assets/images/images_page/20240824_162014.webp' alt='ein Australian Shepherd und ein Labrador liegen auf einem Feldweg nebeneinnander' loading='lazy' decoding='async' class='gallery-img'></div>
 <div class='gallery-card'><img src='/assets/images/images_page/20240901_155050.webp' alt='ein Australian Shepherd und ein kleiner weißer Hund sitzen auf einem Feldweg nebeneinnander' loading='lazy' decoding='async' class='gallery-img'></div>
