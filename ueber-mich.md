@@ -17,7 +17,7 @@ permalink: /ueber-mich.html
       Mein Aussie ist dabei mein ständiger Lehrmeister: Er ist absolut sozialverträglich, verspielt und passt sich wunderbar an neue Situationen an. Er hilft mir oft dabei, Gasthunden Sicherheit zu geben und sie souverän in unsere Abenteuer zu integrieren.
       </p>
       <p style="font-size: 1.1rem; color: var(--text-muted);">
-        Unser Ziel ist es, Hunden einen zweiten Ort zu bieten, an dem sie sich genauso wohlfühlen wie zuhause. Wir legen großen Wert auf Sozialisierung, aber auch auf genügend Ruhephasen. Jeder Hund ist einzigartig, und genau so behandeln wir ihn auch.
+        Mein Ziel ist es, Hunden einen zweiten Ort zu bieten, an dem sie sich genauso wohlfühlen wie zuhause. Ich lege großen Wert auf Sozialisierung, aber auch auf genügend Ruhephasen. Jeder Hund ist einzigartig, und genau so behandele ich ihn auch.
       </p>
     </div>
     <div class="card" style="padding: 0; overflow: hidden;">
