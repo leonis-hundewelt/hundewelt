@@ -21,7 +21,7 @@ permalink: /ueber-mich.html
       </p>
     </div>
     <div class="card" style="padding: 0; overflow: hidden; min-height: 300px;">
-       <img src="{{ '/assets/images/about.jpg' | relative_url }}" alt="Leoni und Hunde" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+       <img src="{{ '/assets/images/about.webp' | relative_url }}" alt="Leoni und Hunde" style="width: 100%; height: 100%; object-fit: cover; display: block;">
     </div>
   </div>
 
