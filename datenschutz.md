@@ -98,11 +98,13 @@ permalink: /datenschutz.html
 
     <h3>Kontakt per WhatsApp</h3>
     <p>
-      Auf unserer Website bieten wir die Möglichkeit an, über einen Button/Link direkt Kontakt per WhatsApp mit uns aufzunehmen. Dieser Button ist ein einfacher Link (kein Plugin).<br>
-      Wenn Sie diesen Button anklicken, werden Sie auf die Website bzw. App von WhatsApp (Dienst von Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland) weitergeleitet. Erst durch das Anklicken werden Daten (z.B. Ihre Telefonnummer) an WhatsApp übertragen.<br>
-      Sobald Sie uns über WhatsApp kontaktieren, nutzen wir Ihre übermittelte Telefonnummer und den Inhalt Ihrer Nachricht ausschließlich zur Bearbeitung Ihrer Anfrage und für den Fall von Anschlussfragen. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.<br>
-      Rechtsgrundlage für die Verarbeitung der Daten ist unser berechtigtes Interesse an einer schnellen und einfachen Kommunikation mit Kunden und Interessenten (Art. 6 Abs. 1 lit. f DSGVO) sowie, sofern Ihre Anfrage auf den Abschluss eines Vertrages abzielt, Art. 6 Abs. 1 lit. b DSGVO.<br>
-      Wir weisen darauf hin, dass wir keinen Einfluss auf die Datenverarbeitung durch WhatsApp haben. Bitte beachten Sie hierzu die Datenschutzhinweise von WhatsApp: <a href="https://www.whatsapp.com/legal/#privacy-policy" target="_blank" rel="noopener noreferrer">https://www.whatsapp.com/legal/#privacy-policy</a>
+      Kontakt per WhatsApp Business<br><br>
+      Wir nutzen für die Kommunikation mit unseren Kunden den Instant-Messaging-Dienst WhatsApp Business. Anbieter ist die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland.<br><br>
+      Die Kommunikation erfolgt über eine sogenannte „Click-to-Chat“-Funktion (Link/Button) auf unserer Website. Dies stellt sicher, dass beim reinen Besuch unserer Website noch keine Daten an WhatsApp übertragen werden. Erst wenn Sie den Button aktiv anklicken, öffnet sich WhatsApp und Ihre Telefonnummer sowie der Inhalt Ihrer Nachricht werden an WhatsApp übermittelt.<br><br>
+      Wir nutzen WhatsApp Business, um Ihre Anfragen schnell und unkompliziert zu bearbeiten. Rechtsgrundlage für die Verarbeitung der Daten ist unser berechtigtes Interesse an einer effizienten Kundenkommunikation (Art. 6 Abs. 1 lit. f DSGVO) sowie, sofern Ihre Anfrage auf den Abschluss oder die Erfüllung eines Vertrages abzielt (z.B. Terminvereinbarung), Art. 6 Abs. 1 lit. b DSGVO.<br><br>
+      Die Inhalte der Kommunikation verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z.B. nach abgeschlossener Bearbeitung Ihrer Anfrage). Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt.<br><br>
+      Wir weisen darauf hin, dass die Datenverarbeitung durch WhatsApp (Meta) auch auf Servern in den USA stattfinden kann. Meta ist unter dem „EU-US Data Privacy Framework“ (DPF) zertifiziert, was die Einhaltung eines angemessenen Datenschutzniveaus gewährleistet.<br><br>
+      Weitere Details zur Datenverarbeitung durch WhatsApp finden Sie in den Datenschutzhinweisen von WhatsApp: <a href="https://www.whatsapp.com/legal/privacy-policy-eea" target="_blank" rel="noopener noreferrer">https://www.whatsapp.com/legal/privacy-policy-eea</a>
     </p>
 
   </div>
