@@ -11,7 +11,7 @@ permalink: /impressum.html
     <h2>Angaben gemäß § 5 TMG</h2>
     <p>
       Leonis Hundewelt<br>
-      Inhaber: Leoni Hunderlage<br>
+      Inhaberin: Leoni Hunderlage<br>
       Havkamp 16<br>
       23795 Bad Segeberg
     </p>

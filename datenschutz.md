@@ -61,7 +61,7 @@ permalink: /datenschutz.html
     <p>
       Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:<br><br>
       Leonis Hundewelt<br>
-      Inhaber: Leoni Hunderlage<br>
+      Inhaberin: Leoni Hunderlage<br>
       Havkamp 16<br>
       23795 Bad Segeberg<br><br>
       Telefon: <a href="tel:{{ site.telefon_url }}">{{ site.telefon }}</a><br>
