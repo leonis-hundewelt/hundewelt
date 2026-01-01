@@ -24,7 +24,7 @@ telefon: +49 155 65963059
 telefon_url: +4915565963059
 telefon_wa: 4915565963059
 description: >- # this means to ignore newlines until "baseurl:"
-  Deine Premium-Hundebetreuung. Wir kümmern uns mit Herz und Verstand um deinen Vierbeiner.
+  Dein individueller Hundeservice. Ich kümmere mich mit Herz und Verstand um deinen Vierbeiner.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leonis_hundewelt
