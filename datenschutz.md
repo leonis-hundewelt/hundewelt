@@ -96,9 +96,8 @@ permalink: /datenschutz.html
 
     <h2>4. Datenerfassung auf dieser Website</h2>
 
-    <h3>Kontakt per WhatsApp</h3>
+    <h3>Kontakt per WhatsApp Business</h3>
     <p>
-      Kontakt per WhatsApp Business<br><br>
       Wir nutzen für die Kommunikation mit unseren Kunden den Instant-Messaging-Dienst WhatsApp Business. Anbieter ist die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland.<br><br>
       Die Kommunikation erfolgt über eine sogenannte „Click-to-Chat“-Funktion (Link/Button) auf unserer Website. Dies stellt sicher, dass beim reinen Besuch unserer Website noch keine Daten an WhatsApp übertragen werden. Erst wenn Sie den Button aktiv anklicken, öffnet sich WhatsApp und Ihre Telefonnummer sowie der Inhalt Ihrer Nachricht werden an WhatsApp übermittelt.<br><br>
       Wir nutzen WhatsApp Business, um Ihre Anfragen schnell und unkompliziert zu bearbeiten. Rechtsgrundlage für die Verarbeitung der Daten ist unser berechtigtes Interesse an einer effizienten Kundenkommunikation (Art. 6 Abs. 1 lit. f DSGVO) sowie, sofern Ihre Anfrage auf den Abschluss oder die Erfüllung eines Vertrages abzielt (z.B. Terminvereinbarung), Art. 6 Abs. 1 lit. b DSGVO.<br><br>
