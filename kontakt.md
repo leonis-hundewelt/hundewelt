@@ -56,7 +56,7 @@ permalink: /kontakt.html
       <p style="color: var(--text-muted);">
         <a href="{{ '/impressum.html' | relative_url }}">Impressum</a><br>
         <a href="{{ '/datenschutz.html' | relative_url }}">Datenschutzerklärung</a><br>
-        <span style="font-size: 0.9em;">Gemäß § 19 UStG wird keine Umsatzsteuer berechnet.</span>
+        <span>Gemäß § 19 UStG wird keine Umsatzsteuer berechnet.</span>
       </p>
     </div>
 </div>
