@@ -18,8 +18,8 @@ permalink: /impressum.html
 
     <h2 style="font-size: 1.5rem; margin-top: 2rem; margin-bottom: 1rem; color: var(--primary-color);">Kontakt</h2>
     <p style="font-size: 1.1rem; color: var(--text-muted); line-height: 1.6;">
-      Telefon: 0162 2966199<br>
-      E-Mail: <a href="mailto:info@leonis-hundewelt.de">info@leonis-hundewelt.de</a>
+      Telefon: <a href="tel:{{ site.telefon_url }}">{{ site.telefon }}</a><br>
+      E-Mail: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
     </p>
 
     <h2 style="font-size: 1.5rem; margin-top: 2rem; margin-bottom: 1rem; color: var(--primary-color);">Umsatzsteuer</h2>
