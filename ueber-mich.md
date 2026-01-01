@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Über Uns
-permalink: /ueber-uns.html
+title: Über mich
+permalink: /ueber-mich.html
 ---
 
 <div class="container" style="padding: 4rem 2rem;">
