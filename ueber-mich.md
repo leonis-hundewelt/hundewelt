@@ -7,7 +7,7 @@ permalink: /ueber-mich.html
 <div class="container" style="padding: 4rem 2rem;">
   <h1 style="font-size: 3rem; margin-bottom: 2rem;">Über mich</h1>
   
-  <div class="grid" style="grid-template-columns: 1fr 1fr; align-items: center;">
+  <div class="grid about-grid" style="align-items: center;">
     <div>
       <p style="font-size: 1.2rem; color: var(--text-muted); margin-bottom: 1.5rem;">
         Leonis Hundewelt entstand aus einer tiefen Leidenschaft für Hunde. Was als kleine Nachbarschaftshilfe begann, ist heute eine professionelle Betreuung mit Herz. Fernab von jeglicher Massenabfertigung nehme ich Hunde exklusiv an meine Seite – für eine Betreuung, die so individuell ist wie dein Vierbeiner.
@@ -20,8 +20,8 @@ permalink: /ueber-mich.html
         Unser Ziel ist es, Hunden einen zweiten Ort zu bieten, an dem sie sich genauso wohlfühlen wie zuhause. Wir legen großen Wert auf Sozialisierung, aber auch auf genügend Ruhephasen. Jeder Hund ist einzigartig, und genau so behandeln wir ihn auch.
       </p>
     </div>
-    <div class="card" style="padding: 0; overflow: hidden; min-height: 300px;">
-       <img src="{{ '/assets/images/about.webp' | relative_url }}" alt="Leoni und Hunde" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+    <div class="card" style="padding: 0; overflow: hidden;">
+       <img src="{{ '/assets/images/about.webp' | relative_url }}" alt="Leoni und Hunde" style="width: 100%; height: auto; display: block;">
     </div>
   </div>
 

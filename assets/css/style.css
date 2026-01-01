@@ -269,3 +269,13 @@ ul {
     background-color: #128C7E;
     box-shadow: 0 10px 30px rgba(37, 211, 102, 0.5);
 }
+
+.about-grid {
+    grid-template-columns: 1fr 1fr;
+}
+
+@media (max-width: 768px) {
+    .about-grid {
+        grid-template-columns: 1fr;
+    }
+}
