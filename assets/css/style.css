@@ -319,3 +319,74 @@ ul {
         grid-row: auto;
     }
 }
+
+/* Legal Pages Styling */
+.legal-page {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.legal-page h1 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    line-height: 1.1;
+    overflow-wrap: break-word;
+}
+
+.legal-page-content {
+    max-width: 800px;
+}
+
+.legal-page h2 {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+}
+
+.legal-page h3 {
+    font-size: 1.25rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: var(--primary-color);
+}
+
+.legal-page p {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+/* Ensure URLs wrap correctly */
+.legal-page a {
+    color: var(--primary-color);
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-all;
+    /* Forces break on long URLs without spaces */
+}
+
+@media (max-width: 768px) {
+    .legal-page {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+
+    .legal-page h1 {
+        font-size: 2rem !important;
+        /* Force override if inline style remains (though we will remove it) */
+    }
+
+    .legal-page h2 {
+        font-size: 1.35rem !important;
+    }
+
+    .legal-page h3 {
+        font-size: 1.15rem !important;
+    }
+
+    .legal-page p {
+        font-size: 1rem !important;
+    }
+}
