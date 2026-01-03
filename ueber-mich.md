@@ -20,7 +20,7 @@ permalink: /ueber-mich.html
             </p>
         </div>
         <div class="card" style="padding: 0; overflow: hidden;">
-            <img src="{{ '/assets/images/about.webp' | relative_url }}" alt="Leoni und Hunde" style="width: 100%; height: auto; display: block;">
+            <img src="{{ '/assets/images/about.webp' | relative_url }}" alt="Mäddchen hockend mit einem Australian Shepherd im Arm vor einem See" style="width: 100%; height: auto; display: block;">
         </div>
     </div>
 </div>
